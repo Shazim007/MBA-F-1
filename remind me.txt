@@ -1,0 +1,10 @@
+blog-box{
+overflow = hidden
+}
+
+......
+icon size= 100%
+
+......
+
+adjust sem 3 - cube
