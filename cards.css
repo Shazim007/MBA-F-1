@@ -28,6 +28,13 @@ h3 {
     margin-bottom: 0;
     font-weight: bold;
 }
+.more{
+    width: auto;
+        height: 270px;
+        overflow: hidden;
+        display: flex;
+    align-items: center;
+}
 .card{
         @extends: .rel;
         margin: 20px;
@@ -55,7 +62,7 @@ h3 {
 
         .cards{
             display: flex;
-            flex-wrap: wrap;
+            flex-wrap: nowrap;
             transition:flex 2s ease-in-out;
             justify-content: center;
         }
