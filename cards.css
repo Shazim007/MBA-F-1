@@ -35,7 +35,7 @@ h3 {
         display: flex;
     align-items: center;
 }
-.more img{
+.more a img{
     border-radius:50%;
 }
 .card{
